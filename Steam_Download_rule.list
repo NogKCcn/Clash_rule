@@ -1,5 +1,5 @@
 # 内容：Origin
 # 数量：3条
-DOMAIN,steamcdn-a.akamaihd.net,🎯 全球直连
-DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连
-DOMAIN-SUFFIX,steamserver.net,🎯 全球直连
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
